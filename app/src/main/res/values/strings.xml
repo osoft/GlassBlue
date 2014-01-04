@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlassBlue</string>
+    <string name="action_settings">Settings</string>
+    <string name="glass_voice_trigger">control my lights</string>
+    <string name="glass_voice_prompt">turn on or off?</string>
+</resources>
