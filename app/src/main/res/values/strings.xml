@@ -4,4 +4,6 @@
     <string name="action_settings">Settings</string>
     <string name="glass_voice_trigger">control my lights</string>
     <string name="glass_voice_prompt">turn on or off?</string>
+    <string name="glass_voice_trigger_turn_on">turn the lights on</string>
+    <string name="glass_voice_trigger_turn_off">turn off the lights</string>
 </resources>
